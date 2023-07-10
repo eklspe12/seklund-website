@@ -1,0 +1,27 @@
+#title{color:white;
+    font-family:"Helvetica";
+    height:40px;
+    width:606px;
+    overflow:hidden;
+    position:sticky;
+    left:25%;
+    top:0;
+    background-color:rgb(27,90,49) ;
+    padding-left:6px;
+    padding-right: 6px;
+    padding-bottom: 1px;
+    border:1px dashed;
+    Border-radius:5px;
+    opacity:.8;
+
+
+
+}
+p{font-family: "Georgia"}
+
+
+
+
+#contents{text-decoration: underline;}
+
+body{background-color:rgb(240,235,210)}
